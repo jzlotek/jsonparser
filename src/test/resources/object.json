@@ -1,0 +1,21 @@
+{
+  "field1": 1,
+  "field2": 2,
+  "field3": {
+    "childField1": "A",
+    "childField2": "B",
+    "childField3": "C",
+    "array": [
+      {
+        "arrayField1": "AA",
+        "arrayField2": "AB"
+      },
+      {
+        "arrayField1": "BB"
+      },
+      {
+        "arrayField1": "CC"
+      }
+    ]
+  }
+}
